@@ -1,0 +1,7 @@
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\obj\x64\Release\RazorMouse.csproj.AssemblyReference.cache
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\obj\x64\Release\RazorMouse.csproj.CoreCompileInputs.cache
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\bin\x64\Release\RazorMouse.exe.config
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\bin\x64\Release\RazorMouse.exe
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\bin\x64\Release\RazorMouse.pdb
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\obj\x64\Release\RazorMouse.exe
+C:\Users\yully\Desktop\RazorMouse\RazorMouse\obj\x64\Release\RazorMouse.pdb
